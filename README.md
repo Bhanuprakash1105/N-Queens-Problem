@@ -2,7 +2,7 @@
 
 **What is N-Queens problem ?**
 
-Given N x N chess board with N queens where each column contains 1 queen the solution is about finding the positions of queens in the chess board such that no queen is attacking any other queen. Basically minimum number of pairs of queens attacking each other and ideally that value should zero(0). But there are few values of N for which the solution doesn't exists for example when N = 2, 3 there is not solution as shown in below image.
+Given an N x N chess board with N queens where each column contains 1 queen, the solution is to find the positions of queens on the chess board such that no queen is attacking any other queen. Basically, the minimum number of pairs of queens attacking each other should be zero(0), ideally. However, there are a few N values for which there is no solution. When N is equal to 2 or 3, for example, there is no solution, as shown in the image below.
 
 <img src="https://github.com/Bhanuprakash1105/N-Queens-Problem/blob/main/Images/solutions-space.jpg" width="430" height="410">
 

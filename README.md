@@ -6,7 +6,7 @@ Given an N x N chess board with N queens where each column contains 1 queen, the
 
 <img src="https://github.com/Bhanuprakash1105/N-Queens-Problem/blob/main/Images/solutions-space.jpg" width="430" height="410">
 
-For more information about N-Queens problem refer ![this link](en.wikipedia.org/wiki/Eight_queens_puzzle) where N = 8
+For more information about N-Queens problem refer [this link](https://en.wikipedia.org/wiki/Eight_queens_puzzle) where N = 8
 
 ## Technical details
 
@@ -14,7 +14,7 @@ For more information about N-Queens problem refer ![this link](en.wikipedia.org/
 * python
 * pygame
 * AI
-* ![Stochastic hill climbing algorithm](https://en.wikipedia.org/wiki/Stochastic_hill_climbing)
+* [Stochastic hill climbing algorithm](https://en.wikipedia.org/wiki/Stochastic_hill_climbing)
 
 ### Execution description
 
